@@ -1,8 +1,5 @@
-# SDSSEPO
-A collection of example educational and outreach activities using SDSS SciServer.
+# Astronomy 101 activities
 
-Download the Jupyter notebook files locally and upload to sciserver.org to run. These notebooks are designed to run on the Compute environment of SciServer.
+A collection of SciServer activities appropriate students in introductory astronomy courses. You are welcome to use them as-is or adapt them for your students.
 
-These activities are free to use. We appreciate any feedback on using these activities in the classroom.
-
-For any questions, suggestions or feedback, please contact Rita Tojeiro rmftr@st-andrews.ac.uk.
+This directory contains notebooks with instructor notes and sample solutions, while the "student_versions" directory contains student instructions only.
